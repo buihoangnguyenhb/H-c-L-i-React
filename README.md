@@ -1,2 +1,2 @@
-# H-c-L-i-React
+# Học Lại React
 Nơi lưu trữ code tự học react
